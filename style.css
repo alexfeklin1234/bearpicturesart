@@ -1,0 +1,64 @@
+  
+.container {
+    position: relative;
+    width: 100%;
+  }
+  
+  
+  .container .logo {
+    width: 200px;
+    position: absolute;
+    top: 0%;
+    left: 4%;
+  
+
+  
+  }
+
+
+
+  .container .contact {
+    color: white;
+    position: absolute;
+    top: 0%;
+    left: 80%;
+  
+    
+  
+  
+  }
+
+  
+  .space{
+    width: 100%;
+  
+  }
+
+
+
+        .lic{
+          width: 95px;
+  
+        }
+        .border{
+          margin: 1em 30em;
+          border-bottom: 20em solid #a0a0a0;
+        }
+        .block2{
+          height: 750px;
+        }
+        .block1{
+          height: 450px;
+        }
+        .block3{
+            height: 750px;
+        }
+        .all{
+          background-color: black;
+        }
+        .text{
+          display: flex;
+          justify-content: center;
+          color: aliceblue;
+        }
+  
